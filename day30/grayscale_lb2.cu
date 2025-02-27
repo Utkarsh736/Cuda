@@ -1,4 +1,4 @@
-//!POPCORN leaderboard rgb_to_grayscale_cuda
+//!POPCORN leaderboard grayscale
 #include <cuda_runtime.h>
 #include "task.h"
 #include "utils.h"
