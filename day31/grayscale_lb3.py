@@ -1,3 +1,5 @@
+#!POPCORN leaderboard grayscale
+
 import torch
 import torch.utils.cpp_extension
 import os
